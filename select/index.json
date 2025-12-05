@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奇跡の再定義",
+  "base_artist": "文藝天国",
+  "createdAt": "2025-12-05T05:15:33.175449Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奇跡の再定義",
+      "artist": "文藝天国",
+      "has_synced": false,
+      "path": "select/pl_01_奇跡の再定義_文藝天国.txt"
+    }
+  ]
+}
